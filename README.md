@@ -54,6 +54,9 @@ In order to run this project you'll need to install:
 
 ### Screenshot
 
+<img width="596" alt="Screen Shot 2019-06-14 at 10 26 54 PM" src="https://user-images.githubusercontent.com/47267211/59546472-a81a3e00-8ef3-11e9-842e-e2ede168c625.png">
+
+
 
 ### Completed Features
 - Developed react components that display on the DOM using react's hash-routing
